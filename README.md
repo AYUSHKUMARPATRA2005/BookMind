@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D9488,1A2B4A&amp;height=200&amp;section=header&amp;text=BookMind&amp;fontSize=80&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI-Powered%20Book%20Summarizer%20%26%20Study%20Aid%20Generator&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
+
 
 <br/>
 
