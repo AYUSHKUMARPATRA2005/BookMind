@@ -284,7 +284,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - [Google Gemini](https://ai.google.dev/) — for the AI API that powers the core intelligence
 - [Mozilla pdf.js](https://mozilla.github.io/pdf.js/) — for client-side PDF text extraction
 - [jsPDF](https://parall.ax/products/jspdf) — for client-side PDF generation
-- [Google Fonts](https://fonts.google.com/) — Source Serif 4 & DM Sans typefaces
+- [Google Fonts](https://fonts.google.com/) — Source Serif 4 &amp; DM Sans typefaces
 - Educational psychology research on active recall and spaced repetition
 
 ---
@@ -294,7 +294,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A2B4A,0D9488&height=120&section=footer&animation=fadeIn" />
 
 <p>
-  <sub>Made with ❤️ for students, by students &nbsp;|&nbsp; NIST Appathon 2026</sub>
+  <sub>Made with ❤️ for students, by students | NIST Appathon 2026</sub>
 </p>
 
 </div>
