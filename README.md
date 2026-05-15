@@ -113,8 +113,8 @@ BookMind has **zero backend infrastructure**. There is no database, no user stor
 |---|---|---|
 | **Frontend** | HTML5, CSS3, Vanilla JS (ES6+) | UI, state management, event handling |
 | **AI Model** | Google Gemini Flash (`gemini-2.5-flash`) | Text comprehension & structured JSON generation |
-| **PDF Input** | [pdf.js](https://mozilla.github.io/pdf.js/) v3.11 (CDN) | Client-side PDF text extraction |
-| **PDF Export** | [jsPDF](https://parall.ax/products/jspdf) v2.5 (CDN) | Client-side PDF generation |
+| **PDF Input** | Client-side PDF text extraction |
+| **PDF Export** | Client-side PDF generation |
 | **Fonts** | Source Serif 4, DM Sans (Google Fonts) | Typography |
 | **Hosting** | Any static host (GitHub Pages, Netlify, Vercel) | Zero-config deployment |
 
