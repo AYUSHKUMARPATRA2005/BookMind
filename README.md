@@ -1,11 +1,16 @@
 <div align="center">
 
-<!-- Hero Banner -->
-![BookMind Banner](https://capsule-render.vercel.app/api?type=waving&color=0D9488,1A2B4A&height=200&section=header&text=BookMind&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Book%20Summarizer%20%26%20Study%20Aid%20Generator&descAlignY=58&descSize=18&animation=fadeIn)
+# 📚 BookMind
 
-<br/>
+### 🤖 AI-Powered Book Summarizer &amp; Study Aid Generator
 
-<p>
+---
+
+> ✨ *Read less. Understand more.*
+> Drop in any book chapter or research paper — get back a clean summary, flashcards, and practice questions in seconds.
+
+---
+
 <p>
   <img src="https://img.shields.io/badge/Status-Active-0D9488?style=for-the-badge&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Built%20With-Vanilla%20JS-F59E0B?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
@@ -13,18 +18,10 @@
   <img src="https://img.shields.io/badge/License-MIT-1A2B4A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Zero-Backend-0D9488?style=for-the-badge" />
 </p>
-</p>
-
-<br/>
-
-> **Read less. Understand more.**
-> Drop in any book chapter or research paper — get back a clean summary, flashcards, and practice questions in seconds.
 
 <br/>
 
 [🚀 Live Demo](#-live-demo) &nbsp;•&nbsp; [✨ Features](#-features) &nbsp;•&nbsp; [🛠️ Tech Stack](#️-tech-stack) &nbsp;•&nbsp; [📦 Installation](#-installation) &nbsp;•&nbsp; [🏗️ Architecture](#️-architecture) &nbsp;•&nbsp; [👥 Team](#-team)
-
-<br/>
 
 </div>
 
@@ -71,7 +68,7 @@ Beautiful 3D flip-card animation. Navigate with **clicks**, **arrow keys**, or *
 </td>
 <td width="50%">
 
-### ❓ Q&A Practice
+### ❓ Q&amp;A Practice
 Questions and answers styled as an accordion — question always visible, answer hidden until you click. Forces active recall.
 
 </td>
@@ -79,7 +76,7 @@ Questions and answers styled as an accordion — question always visible, answer
 <tr>
 <td width="50%">
 
-### 📂 PDF & File Upload
+### 📂 PDF &amp; File Upload
 Drag and drop a **PDF**, **TXT**, or **Markdown** file. Text is extracted right inside your browser using `pdf.js` — no upload to any server.
 
 </td>
@@ -114,9 +111,9 @@ BookMind has **zero backend infrastructure**. There is no database, no user stor
 | Layer | Technology | Purpose |
 |---|---|---|
 | **Frontend** | HTML5, CSS3, Vanilla JS (ES6+) | UI, state management, event handling |
-| **AI Model** | Google Gemini Flash (`gemini-2.5-flash`) | Text comprehension & structured JSON generation |
-| **PDF Input** | Client-side PDF text extraction |
-| **PDF Export** | Client-side PDF generation |
+| **AI Model** | Google Gemini Flash (`gemini-2.5-flash`) | Text comprehension &amp; structured JSON generation |
+| **PDF Input** | pdf.js (Mozilla) | Client-side PDF text extraction |
+| **PDF Export** | jsPDF | Client-side PDF generation |
 | **Fonts** | Source Serif 4, DM Sans (Google Fonts) | Typography |
 | **Hosting** | Any static host (GitHub Pages, Netlify, Vercel) | Zero-config deployment |
 
@@ -192,7 +189,7 @@ Before generating, users can configure three settings:
 |---|---|---|
 | **Summary Length** | Brief / Standard / Detailed | Controls how many paragraphs the AI writes |
 | **Flashcard Count** | 5 / 10 / 15 | Controls the size of the flashcard deck |
-| **Q&A Count** | 5 / 8 / 12 | Controls the number of practice questions |
+| **Q&amp;A Count** | 5 / 8 / 12 | Controls the number of practice questions |
 
 These values are injected directly into the AI prompt — no post-processing needed.
 
@@ -293,12 +290,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A2B4A,0D9488&height=120&section=footer&animation=fadeIn" />
-
-<p>
-  <sub>Made with ❤️ for students, by students | NIST Appathon 2026</sub>
-</p>
+### 🎓 Made with ❤️ for students, by students
+**NIST University &nbsp;·&nbsp; CSE-D &nbsp;·&nbsp; Appathon 2026**
 
 </div>
-
-
