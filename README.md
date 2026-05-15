@@ -6,11 +6,13 @@
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Active-0D9488?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Built%20With-Vanilla%20JS-F59E0B?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Status-Active-0D9488?style=for-the-badge&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Built%20With-Vanilla%20JS-F59E0B?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/License-MIT-1A2B4A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Zero-Backend-0D9488?style=for-the-badge" />
+</p>
 </p>
 
 <br/>
